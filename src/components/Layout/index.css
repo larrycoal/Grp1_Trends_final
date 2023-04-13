@@ -1,0 +1,73 @@
+header {
+  box-shadow: 0px 3px 6px #00000008;
+}
+
+nav {
+  display: flex;
+  padding: 1rem;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+}
+.logo {
+  flex-grow: 1;
+  text-align: left;
+  color: #414859;
+}
+ul{
+    list-style: none;
+}
+.navigation {
+  display: flex;
+  gap: 35px;
+  color: #636974;
+  align-items: center;
+}
+a{
+    text-decoration: none;
+    color: #636974;
+    font-size: 1.2rem;
+}
+.outlet{
+    flex-grow: 1;
+}
+footer .contact {
+  background-color: #d4015d;
+  text-align: center;
+  color: #ffffff;
+  padding: 2rem;
+}
+footer .contact button {
+  padding: 1rem 2rem;
+  width: fit-content;
+  background-color: #ffffff;
+  color: #d4015d;
+  cursor: pointer;
+  border: none;
+}
+footer .contact p {
+  margin: 1rem 0;
+  font-size: 12px;
+}
+footer .footerLogo {
+  background-color: #292929;
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+}
+footer .footerLogo div:nth-child(2) {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+  gap: 20px;
+}
+footer .footerLogo div:nth-child(2) i {
+  cursor: pointer;
+  font-size: 20px;
+}
+footer .disclaimer {
+  text-align: center;
+  color: #a1a1a1;
+  background-color: #4b4b4b;
+  padding: 1rem;
+}
