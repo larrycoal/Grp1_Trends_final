@@ -24,15 +24,15 @@ const header_footer = ({ children }) => {
         <Outlet />
       </div>
       <footer>
-        <div class="footerLogo">
+        <div className="footerLogo">
           <div>ShopHova</div>
           <div>
-            <i class="fa-brands fa-instagram"></i>
-            <i class="fa-brands fa-facebook"></i>
-            <i class="fa-brands fa-twitter"></i>
+            <i className="fa-brands fa-instagram"></i>
+            <i className="fa-brands fa-facebook"></i>
+            <i className="fa-brands fa-twitter"></i>
           </div>
         </div>
-        <div class="disclaimer">
+        <div className="disclaimer">
           Copyright &copy; 2022 | ShopHova | Group Project Conestoga
         </div>
       </footer>

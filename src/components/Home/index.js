@@ -3,8 +3,8 @@ import "./index.css"
 const index = () => {
     return (
       <div className='home_wrapper'>
-        <div class="hero">
-          <div class="left">
+        <div className="hero">
+          <div className="left">
             <p>Come visit</p>
             <h2>Home Of Exoctic Bespoke Dresses</h2>
             <p>
@@ -13,12 +13,12 @@ const index = () => {
               we offer the best bespoke dresses with top shelf clothing
               materials
             </p>
-            <div class="btn">
-              <button class="btn_left">Get Started</button>
-              <button class="btn_right">Login</button>
+            <div className="btn">
+              <button className="btn_left">Get Started</button>
+              <button className="btn_right">Login</button>
             </div>
           </div>
-          <div class="right">
+          <div className="right">
             <img
               src="https://raw.githubusercontent.com/larrycoal/Socials/master/Asset/image/store-front.jpeg"
               alt="store front of our shop"
@@ -26,11 +26,11 @@ const index = () => {
             />
           </div>
         </div>
-        <div class="layer_two">
-          <div class="container">
-            <div class="left">
-              <span class="box"></span>
-              <div class="img">
+        <div className="layer_two">
+          <div className="container">
+            <div className="left">
+              <span className="box"></span>
+              <div className="img">
                 <img
                   src="https://raw.githubusercontent.com/larrycoal/Socials/master/Asset/image/statementJacket.jpeg"
                   alt="a model showing our dress"
@@ -38,7 +38,7 @@ const index = () => {
                 />
               </div>
             </div>
-            <div class="right">
+            <div className="right">
               <h2>Buy ready to wear dress from our store</h2>
               <p>
                 We have the most beutiful ready to wear smart clothes at
@@ -49,9 +49,9 @@ const index = () => {
             </div>
           </div>
         </div>
-        <div class="layer_three">
-          <div class="container">
-            <div class="right">
+        <div className="layer_three">
+          <div className="container">
+            <div className="right">
               <h2>Bet on us for your special occasion</h2>
               <p>
                 Do you have a special occasion you need bespoke dress for?
@@ -61,9 +61,9 @@ const index = () => {
               </p>
               <button>Order Now</button>
             </div>
-            <div class="left">
-              <span class="box"></span>
-              <div class="img">
+            <div className="left">
+              <span className="box"></span>
+              <div className="img">
                 <img
                   src="https://raw.githubusercontent.com/larrycoal/Socials/master/Asset/image/skinmePant.jpeg"
                   alt="a model showing our dress"
@@ -73,10 +73,10 @@ const index = () => {
             </div>
           </div>
         </div>
-        <div class="description_section">
+        <div className="description_section">
           <h2>How We Work</h2>
-          <div class="container">
-            <div class="img">
+          <div className="container">
+            <div className="img">
               <img
                 src="https://raw.githubusercontent.com/larrycoal/Socials/master/Asset/image/danique-tersmette-HusIRI6pw4k-unsplash.jpg"
                 width="100%"
@@ -84,13 +84,13 @@ const index = () => {
                 alt=" a man sewing."
               />
             </div>
-            <i class="fa fa-play" aria-hidden="true"></i>
+            <i className="fa fa-play" aria-hidden="true"></i>
           </div>
         </div>
-        <div class="testimonial">
+        <div className="testimonial">
           <h2>What Our Customer say</h2>
-          <div class="container">
-            <div class="card">
+          <div className="container">
+            <div className="card">
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
@@ -104,7 +104,7 @@ const index = () => {
               <h3>Amanda Jackson</h3>
               <p>CEO,NRD Group</p>
             </div>
-            <div class="card">
+            <div className="card">
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
