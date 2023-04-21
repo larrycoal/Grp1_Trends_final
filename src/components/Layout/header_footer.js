@@ -33,7 +33,7 @@ const header_footer = ({ children }) => {
           </div>
         </div>
         <div className="disclaimer">
-          Copyright &copy; 2022 | ShopHova | Group Project Conestoga
+          Copyright &copy; 2023 | ShopHova | Group Project Conestoga
         </div>
       </footer>
     </>

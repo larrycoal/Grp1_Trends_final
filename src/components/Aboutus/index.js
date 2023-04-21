@@ -24,7 +24,7 @@ const About1 = () => {
                             <img className="md:hidden block" src="https://res.cloudinary.com/dbdrtuscd/image/upload/v1606239414/lanre1_q2it41.png" alt="Alexa featured Img" />
                             <div className="flex flex-col items-center">
                                 <p className="font-medium text-md leading-5 text-gray-800 mt-4">Lanre</p>
-                                <p className="text-sm">Student Number</p>
+                                <p className="text-sm">8769942</p>
                             </div>
                         </div>
                         <div className="p-4 pb-6 flex justify-center flex-col items-center">
